@@ -1,11 +1,11 @@
 {
   "title": "Clean Blog",
-  "name": "startbootstrap-clean-blog",
+  "name": "Node app",
   "version": "5.0.10",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+  "description": "A clean blog App made with Node.js.",
   "keywords": [
     "css",
     "sass",
@@ -14,19 +14,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/theme/clean-blog",
+  "homepage": "https://stephenbrooks220413.github.io/NEBM/",
   "bugs": {
-    "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "www.developing4life.com",
+    "email": "stephenbrooks714@gmail.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (https://davidmiller.io/)"
+    "Stephen Brooks (https://www.developing4life.com/)"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StartBootstrap/startbootstrap-clean-blog.git"
+    "url": "git+https://github.com/StephenBrooks220413/NEBM.git"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.1",
